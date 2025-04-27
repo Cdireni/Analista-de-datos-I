@@ -4,7 +4,7 @@
 
 <div align="center">
 <h2 align="center">AMERICAN THINGS</h2>
-<h3 align="center">Gestión de Base de Datos -Análisis y Exploración.</h3>
+<h3 align="center">Análisis y Procesamiento de datos, para selección de estrategias de ventas.</h3>
 <hr />
 
 </div>
@@ -13,7 +13,7 @@
 
 <h2><a href="https://github.com/AllendeNicolas/Analista-de-datos-I">📂 1° Cuatrimestre</a></h2>
 	
-<p>Proyecto integrador del módulo "ANALISTA DE DATOS I" compuestas por las materias "Proceamiento de Datos" y "Etadística y Exploración de Datos", correspondientes al 1er cuatrimestre del 2do año, de la Tecnicatura en Ciencia de Datos e Inteligencia Artificial, Instituto Superior Politécnico de Córdoba. <a href="https://github.com/AllendeNicolas/Analista-de-datos-I">Ver proyecto.</a></p>
+<p>Proyecto integrador del módulo "ANALISTA DE DATOS I" compuesta por las materias "Proceamiento de Datos" y "Etadística y Exploración de Datos", correspondientes al 1er cuatrimestre del 2do año, de la Tecnicatura en Ciencia de Datos e Inteligencia Artificial, Instituto Superior Politécnico de Córdoba. <a href="https://github.com/AllendeNicolas/Analista-de-datos-I">Ver proyecto.</a></p>
 	
 <h3>Integrantes</h3>
 
